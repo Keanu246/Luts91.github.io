@@ -44,12 +44,12 @@
   ],
   "sound":[
     {
-      "name": "music",
-      "file": "music",
+      "name": "sound-695",
+      "file": "sound-695",
       "credits":{
-        "author": "Kevin MacLeod",
-        "name": "George Street Shuffle",
-        "url": "incompetech.com"
+        "author": "Battle Slimes",
+        "name": "8-Bit Mania",
+        "url": "Unknown"
       }
     },
     {
