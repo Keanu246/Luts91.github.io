@@ -55,6 +55,14 @@
                 "costIncrease": 1.14,
                 "valueIncrease": 500,
                 "ascentIncrease": 100000
+            },
+            {
+                "startD": 2,
+                "cost": 1000000,
+                "value": 0,
+                "costIncrease": 1.12,
+                "valueIncrease": 2500,
+                "ascentIncrease": 100000
             }
         ],
         "multi":[
@@ -82,6 +90,11 @@
                 "cost": 1600000000000,
                 "costIncrease": 50000,
                 "ascentIncrease": 100000000000000000000000000000000000000000000000000000
+            },
+            {
+                "cost": 32000000000000,
+                "costIncrease": 60000,
+                "ascentIncrease": 100000000000000000000000000000000000000000000000000000000
             }
         ]
     }
