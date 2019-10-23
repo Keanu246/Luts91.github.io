@@ -30,7 +30,6 @@
                 "value": 0,
                 "costIncrease": 1.20,
                 "valueIncrease": 5,
-                "initialLevel": 1,
                 "ascentIncrease": 10000
             },
             {
@@ -39,7 +38,6 @@
                 "value": 0,
                 "costIncrease": 1.18,
                 "valueIncrease": 25,
-                "initialLevel": 1,
                 "ascentIncrease": 10000
             },
             {
@@ -48,7 +46,6 @@
                 "value": 0,
                 "costIncrease": 1.16,
                 "valueIncrease": 100,
-                "initialLevel": 1,
                 "ascentIncrease": 10000
             },
             {
@@ -57,7 +54,6 @@
                 "value": 0,
                 "costIncrease": 1.14,
                 "valueIncrease": 500,
-                "initialLevel": 1,
                 "ascentIncrease": 10000
             },
             {
@@ -66,7 +62,6 @@
                 "value": 0,
                 "costIncrease": 1.12,
                 "valueIncrease": 2500,
-                "initialLevel": 1,
                 "ascentIncrease": 10000
             }
         ],
