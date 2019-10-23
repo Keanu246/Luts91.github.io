@@ -30,6 +30,7 @@
                 "value": 0,
                 "costIncrease": 1.20,
                 "valueIncrease": 5,
+                "initialLevel": 1,
                 "ascentIncrease": 100000
             },
             {
@@ -38,6 +39,7 @@
                 "value": 0,
                 "costIncrease": 1.18,
                 "valueIncrease": 25,
+                "initialLevel": 1,
                 "ascentIncrease": 100000
             },
             {
@@ -46,6 +48,7 @@
                 "value": 0,
                 "costIncrease": 1.16,
                 "valueIncrease": 100,
+                "initialLevel": 1,
                 "ascentIncrease": 100000
             },
             {
@@ -54,20 +57,22 @@
                 "value": 0,
                 "costIncrease": 1.14,
                 "valueIncrease": 500,
+                "initialLevel": 1,
                 "ascentIncrease": 100000
             },
             {
                 "startD": 2,
-                "cost": 10000000,
+                "cost": 1000000,
                 "value": 0,
                 "costIncrease": 1.12,
                 "valueIncrease": 2500,
+                "initialLevel": 1,
                 "ascentIncrease": 100000
             }
         ],
         "multi":[
             {
-                "cost": 1000000,
+                "cost": 10000000,
                 "costIncrease": 10000,
                 "ascentIncrease": 10000000000000000000000000000000000000
             },
