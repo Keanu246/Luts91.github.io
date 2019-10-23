@@ -19,7 +19,7 @@
                 "startD": 2,
                 "cost": 10,
                 "value": 0,
-                "costIncrease": 1.10,
+                "costIncrease": 1.05,
                 "valueIncrease": 1,
                 "initialLevel": 1,
                 "ascentIncrease": 100000
