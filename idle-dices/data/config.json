@@ -1,5 +1,5 @@
 {
-    "version": "1.3.87",
+    "version": "1.5",
     "colors": {
         "purple": "0x8b628a",
         "brown": "0x8c867a",
@@ -22,9 +22,7 @@
                 "costIncrease": 1.10,
                 "valueIncrease": 1,
                 "initialLevel": 1,
-                "ascentIncrease": 10000,
-                "evolveValue": 100,
-                "evolveIncrease": 10000
+                "ascentIncrease": 1
             },
             {
                 "startD": 2,
@@ -32,7 +30,7 @@
                 "value": 0,
                 "costIncrease": 1.20,
                 "valueIncrease": 5,
-                "ascentIncrease": 10000
+                "ascentIncrease": 1
             },
             {
                 "startD": 2,
@@ -40,7 +38,7 @@
                 "value": 0,
                 "costIncrease": 1.18,
                 "valueIncrease": 25,
-                "ascentIncrease": 10000
+                "ascentIncrease": 1
             },
             {
                 "startD": 2,
@@ -48,7 +46,7 @@
                 "value": 0,
                 "costIncrease": 1.16,
                 "valueIncrease": 100,
-                "ascentIncrease": 10000
+                "ascentIncrease": 1
             },
             {
                 "startD": 2,
@@ -56,7 +54,7 @@
                 "value": 0,
                 "costIncrease": 1.14,
                 "valueIncrease": 500,
-                "ascentIncrease": 10000
+                "ascentIncrease": 1
             },
             {
                 "startD": 2,
@@ -64,7 +62,7 @@
                 "value": 0,
                 "costIncrease": 1.12,
                 "valueIncrease": 2500,
-                "ascentIncrease": 10000
+                "ascentIncrease": 1
             }
         ],
         "multi":[
