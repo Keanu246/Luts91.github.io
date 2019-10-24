@@ -67,11 +67,13 @@
         ],
         "multi":[
             {
+                "startD": 2,
                 "cost": 10000000,
                 "costIncrease": 10000,
                 "ascentIncrease": 10000000000000000000000000000000000000
             },
             {
+                "startD": 2,
                 "cost": 200000000,
                 "costIncrease": 20000,
                 "ascentIncrease": 100000000000000000000000000000000000000000
