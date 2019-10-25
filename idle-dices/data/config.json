@@ -28,7 +28,7 @@
                 "startD": 2,
                 "cost": 100,
                 "value": 0,
-                "costIncrease": 1.25,
+                "costIncrease": 1.50,
                 "valueIncrease": 5,
                 "ascentIncrease": 1000
             },
@@ -36,7 +36,7 @@
                 "startD": 2,
                 "cost": 1000,
                 "value": 0,
-                "costIncrease": 1.20,
+                "costIncrease": 1.40,
                 "valueIncrease": 25,
                 "ascentIncrease": 1000
             },
@@ -44,7 +44,7 @@
                 "startD": 2,
                 "cost": 10000,
                 "value": 0,
-                "costIncrease": 1.15,
+                "costIncrease": 1.30,
                 "valueIncrease": 100,
                 "ascentIncrease": 1000
             },
@@ -52,7 +52,7 @@
                 "startD": 2,
                 "cost": 100000,
                 "value": 0,
-                "costIncrease": 1.13,
+                "costIncrease": 1.20,
                 "valueIncrease": 500,
                 "ascentIncrease": 1000
             },
@@ -60,7 +60,7 @@
                 "startD": 2,
                 "cost": 1000000,
                 "value": 0,
-                "costIncrease": 1.11,
+                "costIncrease": 1.15,
                 "valueIncrease": 2500,
                 "ascentIncrease": 1000
             }
